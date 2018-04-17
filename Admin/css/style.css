@@ -1,0 +1,42 @@
+ 
+ .huge
+ {
+     font-size:40px;
+     margin:10px;
+     color:white;
+ }
+ .panel-footer .pull-left, .text-right 
+ { color:white;}
+ .tag-boxes .panel-primary 
+ {
+     border:1px solid rgb(40, 141, 224);
+     background: rgb(40, 141, 224);
+ }
+ .tag-boxes .panel-red 
+ {
+     color:white;
+     background:red; 
+ }
+ .tag-boxes .panel-green
+ {
+     color:white;
+     background:yellowgreen; 
+ }
+ .tag-boxes .panel-yellow
+ {
+     color:white;
+     background:olive; 
+ }
+ 
+ @media(max-width:1200px)
+{
+
+body
+{
+    padding-right:30px;
+}
+#dashboard 
+{
+    padding-right:10px;
+}
+}
