@@ -1,0 +1,1 @@
+I did not include fontawesome file to reduce the too many files.
